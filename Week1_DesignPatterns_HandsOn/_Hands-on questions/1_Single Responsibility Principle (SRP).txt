@@ -1,0 +1,1 @@
+Write a Java program to demonstrate the Single Responsibility Principle by separating the responsibility of invoice data management from invoice printing. Ensure each class has only one reason to change.

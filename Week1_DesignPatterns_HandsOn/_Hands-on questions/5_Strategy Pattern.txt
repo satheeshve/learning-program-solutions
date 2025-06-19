@@ -1,0 +1,2 @@
+Implement the Strategy Design Pattern in Java to simulate different payment methods (like Credit Card and PayPal). Allow a shopping cart to dynamically choose which strategy to use at runtime.
+

@@ -1,0 +1,1 @@
+Create a Java program to implement the Observer Design Pattern. The program should simulate a Publisher-Subscriber model where multiple subscribers get notified when the publisher publishes a message.

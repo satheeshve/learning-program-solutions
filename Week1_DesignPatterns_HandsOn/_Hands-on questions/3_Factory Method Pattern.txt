@@ -1,0 +1,1 @@
+Implement the Factory Method Design Pattern in Java to create different types of animals (like Dog and Cat). The factory should return the correct object based on input without exposing the creation logic to the client.
