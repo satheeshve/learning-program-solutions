@@ -1,0 +1,7 @@
+Write a Java program to implement a Singly Linked List with the following operations:
+
+>> Insertion at end
+
+>> Traversal
+
+>> Deletion by value

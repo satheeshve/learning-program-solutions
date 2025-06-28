@@ -1,0 +1,1 @@
+Write a Java program to declare and initialize an array of integers. Traverse the array and print each element with its index.
