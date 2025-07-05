@@ -1,0 +1,1 @@
+Create a BEFORE INSERT trigger on a table audit_test that logs insertions into another table audit_log.

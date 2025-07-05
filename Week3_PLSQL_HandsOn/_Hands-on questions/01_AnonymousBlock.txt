@@ -1,0 +1,1 @@
+Write a simple PL/SQL anonymous block to declare a variable, assign a value, and print it.

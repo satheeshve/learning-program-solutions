@@ -1,0 +1,1 @@
+Write a PL/SQL block that checks whether a number is positive, negative, or zero using IF-THEN-ELSE.

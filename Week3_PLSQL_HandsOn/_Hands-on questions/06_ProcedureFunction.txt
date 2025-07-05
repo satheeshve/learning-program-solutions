@@ -1,0 +1,1 @@
+Write a stored procedure that takes a name as input and prints a welcome message. Also, write a function to return the square of a number.

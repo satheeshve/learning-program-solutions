@@ -1,0 +1,1 @@
+Write a PL/SQL block to divide two numbers and handle the division by zero exception using WHEN ZERO_DIVIDE THEN.
